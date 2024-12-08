@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="800px" viewBox="0 0 800 800" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, 0.000000)" fill="#D97757">
+            <circle opacity="0.1" cx="400" cy="400" r="400"/>
+            <circle opacity="0.1" cx="400" cy="400" r="300"/>
+            <circle opacity="0.1" cx="400" cy="400" r="200"/>
+            <circle opacity="0.1" cx="400" cy="400" r="100"/>
+            <!-- Cross pattern -->
+            <rect opacity="0.1" x="395" y="0" width="10" height="800"/>
+            <rect opacity="0.1" x="0" y="395" width="800" height="10"/>
+        </g>
+    </g>
+</svg>
